@@ -1,0 +1,2 @@
+obj\Debug\net8.0-windows\Infrastructure\Data\Protos/Euromil.cs \
+obj\Debug\net8.0-windows\Infrastructure\Data\Protos/EuromilGrpc.cs: Infrastructure/Data/Protos/euromil.proto
